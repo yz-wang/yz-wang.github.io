@@ -31,7 +31,23 @@ author_profile: true
 	       IEEE Transactions on Instrumentation & Measurement (<b>IEEE T-IM</b>), accepted, 2024. <br>
 	  </font>
 	 </p> </li>
-	
+
+    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            An improved sand cat swarm optimization for moving target search by UAV <br> 
+         <i>   Yanbiao Niu, Xuefeng Yan, <b>Yongzhen Wang</b>, and Yanzhao Niu. </i><br> 
+	       Expert Systems with Applications (<b>ESWA</b>), vol. 238, 122189, 2024. <br>
+	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742302691X">paper</a>] 
+	  </font>
+	 </p> </li>
+
+     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            3D real-time dynamic path planning for UAV based on improved interfered fluid dynamical system and artificial neural network <br> 
+         <i>   Yanbiao Niu, Xuefeng Yan, <b>Yongzhen Wang</b>, and Yanzhao Niu. </i><br> 
+	       Advanced Engineering Informatics (<b>ESWA</b>), vol. 59, 102306, 2024. <br>
+	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034623004342">paper</a>] 
+	  </font>
+	 </p> </li>
+  
 </ul>
 
 	
@@ -79,9 +95,7 @@ author_profile: true
 	       Knowledge-Based Systems (<b>KBS</b>), vol. 276, 110782, 2023. <br>
 	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123005324">paper</a>] 
 	  </font>
-	 </p> </li>
-
-     
+	 </p> </li>     
 		
 </ul>	
 
