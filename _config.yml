@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yongzhen Wang / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yongzhen Wang"
 description              : &description "personal description"
 url                      : https://yz-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yongzhen Wang"
+  name             : "Yongzhen Wang / 王永振"
   avatar           : "wang.jpg"
   bio              : "Lecturer at Anhui University of Technology"
-  location         : "Ma’anshan, China"
+  location         : "Art Design Building-308, 1530 Maxiang Road,<br>    Xiushan, Ma’anshan, China" 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=fLeZQYkAAAAJ&hl=zh-CN"
-  email            : "wangyz@ahut.edu.cn"
+  email            : wangyz@ahut.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
