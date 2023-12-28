@@ -174,7 +174,7 @@ author_profile: true
 <ul>
    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
             狭缝节流空气静压轴承局部气膜流场的直接数值模拟 <br> 
-         <i>   <b>王永振</b>b>, 卢志伟, 赵晓龙, 刘波, 张君安. </i><br> 
+         <i>   <b>王永振</b>, 卢志伟, 赵晓龙, 刘波, 张君安. </i><br> 
 	       润滑与密封, vol. 45, no. 03, pp. 63-69, 2020. <br>
 	 [<a href="http://www.rhymf.com.cn/rhymf/article/abstract/RF20190150?st=search">paper</a>]
         </font>
