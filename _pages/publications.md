@@ -45,207 +45,127 @@ author_profile: true
          <i>   <b>Yongzhen Wang</b>, Jiamei Xiong, Xuefeng Yan, and Mingqiang Wei. </i><br> 
 	       IEEE Transactions on Intelligent Transportation Systems, 2023. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/10143384">paper</a>] 
-         [<a href="https://github.com/yz-wang/USCFormer">code</a>]
+               [<a href="https://github.com/yz-wang/USCFormer">code</a>]
 	  </font>
 	 </p> </li>
 
-	
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Cycle-SNSPGAN: Towards Real-World Image Dehazing via Cycle Spectral Normalized Soft Likelihood Estimation Patch GAN <br> 
-         <i>  <b>Yongzhen Wang</b>, Xuefeng Yan, Donghai Guan. </i><br> 
-	       IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE TPAMI</b>), vol. 45, no. 3, pp. 3259-3273, 2023. <br>
-	       [<a href="https://ieeexplore.ieee.org/document/9804810">paper</a>]
-	       [<a href="https://arxiv.org/abs/2207.04614">arXiv</a>]
-	       [<a href="https://github.com/stevewongv/SSIS">code</a>] 
-	       [<a href="https://drive.google.com/drive/folders/1MKxyq3R6AUeyLai9i9XWzG2C_n5f0ppP">SOBA dataset</a>]
-          </font>
-	 </p> </li>
-
-     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            IDRNet: Intervention-Driven Relation Network for Semantic Segmentation  <br> 
-	 <i>   Zhenchao Jin, <b>Xiaowei Hu</b>, Lingting Zhu, Luchuan Song, Li Yuan, Lequan Yu. </i><br> 
-               Neural Information Processing Systems (<b>NeurIPS</b>), to appear, 2023. <br>
-	        [<a href="https://arxiv.org/abs/2310.10755">arXiv</a>] 
-	        [<a href="https://github.com/SegmentationBLWX/sssegmentation">code</a>]
+            面向真实战场环境的Transformer-CNN多特征聚合图像去雾算法  <br> 
+	 <i>   <b>王永振</b>, 童鸣, 燕雪峰, 魏明强. </i><br> 
+               兵工学报, to appear, 2023. <br>
+	        [<a href="http://www.co-journal.com/CN/10.12382/bgxb.2022.0957">paper</a>] 
 	 </font>
 	 </p> </li>
     
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            SILT: Shadow-Aware Iterative Label Tuning for Learning to Detect Shadows from Noisy Labels <br> 
-         <i>   Han Yang^, Tianyu Wang^, <b>Xiaowei Hu*</b>, and Chi-Wing Fu.  </i><br> 
-	       IEEE International Conference on Computer Vision (<b>ICCV</b>), pp. 12687-12698, 2023. <br>
-	       [<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_SILT_Shadow-Aware_Iterative_Label_Tuning_for_Learning_to_Detect_Shadows_ICCV_2023_paper.pdf">paper</a>]
-	       [<a href="https://arxiv.org/abs/2308.12064">arXiv</a>]
-	       [<a href="https://github.com/Cralence/SILT">code</a>]
+            Densely Nested Network with Label Decoupling for Infrared Small Target Detection <br> 
+         <i>   Zhiheng Hu, <b>Yongzhen Wang</b>, Peng Li, Jie Qin, Haoran Xie, and Mingqiang Wei.  </i><br> 
+	       Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), pp. 1-5, 2023. <br>
+	       [<a href="https://ieeexplore.ieee.org/document/10095519">paper</a>]
 	  </font>
 	 </p> </li>	
 	
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions <br> 
-         <i>   Yurui Zhu^, Tianyu Wang^, Xueyang Fu*, Xuanyu Yang, Xin Guo, Jifeng Dai, Yu Qiao, and <b>Xiaowei Hu</b>*.  </i><br> 
-	       IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 21747-21758, 2023. <br>
-	       [<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.html">paper</a>]
-	       [<a href="https://github.com/zhuyr97/WGWS-Net">code</a>]
+            Three-dimensional UCAV path planning using a novel modified artificial ecosystem optimizer <br> 
+         <i>   Yanbiao Niu, Xuefeng Yan, <b>Yongzhen Wang</b>, and Yanzhao Niu.  </i><br> 
+	       Expert Systems with Applications (<b>ESWA</b>), vol. 217, 119499, 2023. <br>
+	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417422025180">paper</a>]
 	     </font>
 	 </p> </li>
 	
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior <br> 
-         <i>   Jiaqi Xu, <b>Xiaowei Hu</b>*, Lei Zhu*, Qi Dou, Jifeng Dai, Yu Qiao, and Pheng-Ann Heng. </i><br> 
-	       IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 18053-18062, 2023. <br>
-	       [<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Video_Dehazing_via_a_Multi-Range_Temporal_Alignment_Network_With_Physical_CVPR_2023_paper.html">paper</a>] 
-	       [<a href="https://arxiv.org/abs/2303.09757">arXiv</a>] 
-	       [<a href="https://github.com/jiaqixuac/MAP-Net">code</a>]
-	       [<a href="https://github.com/jiaqixuac/MAP-Net/blob/main/docs/dataset_prepare.md">HazeWorld dataset</a>]
-	       [<a href="https://zhuanlan.zhihu.com/p/621608857">report (zhihu)</a>]
-	  </font>
-	 </p> </li>
-	
-     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-               Matching Is Not Enough: A Two-Stage Framework for Category-Agnostic Pose Estimation <br> 
-         <i>   Min Shi, Zihao Huang, Xianzheng Ma, <b>Xiaowei Hu</b>, and Zhiguo Cao. </i><br> 
-	       IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 7308-7317, 2023. (<span style="color:rgb(224, 145, 92)"><b>Highlight</b></span>)  <br>
-	       [<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Shi_Matching_Is_Not_Enough_A_Two-Stage_Framework_for_Category-Agnostic_Pose_CVPR_2023_paper.html">paper</a>]
-	       [<a href="https://github.com/flyinglynx/CapeFormer">code</a>]
-	     </font>
-	 </p> </li>
-	
-     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-               InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions <br> 
-         <i>   Wenhai Wang, Jifeng Dai, Zhe Chen, Zhenhang Huang, Zhiqi Li, Xizhou Zhu, <b>Xiaowei Hu</b>, Tong Lu, Lewei Lu, Hongsheng Li, Xiaogang Wang, and Yu Qiao. </i><br> 
-	       IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), pp. 14408-14419, 2023. (<span style="color:rgb(224, 145, 92)"><b>Highlight</b></span>) <br>
-	       [<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Wang_InternImage_Exploring_Large-Scale_Vision_Foundation_Models_With_Deformable_Convolutions_CVPR_2023_paper.html">paper</a>] 
-	       [<a href="https://arxiv.org/abs/2211.05778">arXiv</a>] 
-	       [<a href="https://github.com/OpenGVLab/InternImage">code</a>]
-	       [<a href="https://www.youtube.com/watch?v=_LEitBd5Tfs">video</a>]
+            Three-dimensional collaborative path planning for multiple UCAVs based on improved artificial ecosystem optimizer and reinforcement learning <br> 
+         <i>   Yanbiao Niu, Xuefeng Yan, <b>Yongzhen Wang</b>, and Yanzhao Niu. </i><br> 
+	       Knowledge-Based Systems (<b>KBS</b>), vol. 276, 110782, 2023. <br>
+	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123005324">paper</a>] 
 	  </font>
 	 </p> </li>
 
-	
-     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Deep Texture-Aware Features for Camouflaged Object Detection <br> 
-         <i>   Jingjing Ren^, <b>Xiaowei Hu</b>^, Lei Zhu, Xuemiao Xu, Yangyang Xu, Weiming Wang, Zijun Deng, and Pheng-Ann Heng.   </i><br> 
-	        IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE TCSVT</b>), vol. 33, no. 3, pp. 1157-1167, 2023. <br>
-	        [<a href="https://ieeexplore.ieee.org/document/9606888">paper</a>]
-	        [<a href="https://arxiv.org/abs/2102.02996">arXiv</a>] 
-	  </font>
-	 </p> </li>  
-	
-   
-      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Representative Feature Alignment for Adaptive Object Detection <br> 
-         <i>   Shan Xu, Huaidong Zhang, Xuemiao Xu*, <b>Xiaowei Hu</b>*, Yangyang Xu, Liangui Dai, Kup-Sze Choi, and Pheng-Ann Heng. </i><br> 
-	        IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE TCSVT</b>), vol. 33, no. 2, pp. 689-700, 2023. <br>
-	     [<a href="https://ieeexplore.ieee.org/document/9868052">paper</a>]
-	  </font>
-	 </p> </li>    
+     
+		
+</ul>	
 
-
-        
-    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Spectrum and Style Transformation Framework for Omni-Domain COVID-19 Diagnosis <br> 
-         <i>   Zhenkun Wang, Shuangchun Gui, Xinpeng Ding, <b>Xiaowei Hu</b>*, Xiaowei Xu*, and Xiaomeng Li. </i><br> 
-	       IEEE Transactions on Emerging Topics in Computational Intelligence (<b>IEEE TETCI</b>), vol. 7, no. 5, pp. 1527-1538, 2023. <br>
-	       [<a href="https://ieeexplore.ieee.org/document/9954228">paper</a>]
-	  </font>
-	 </p> </li>   
-	
-	
-    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Dynamic Message Propagation Network for RGB-D and Video Salient Object Detection <br> 
-         <i>   Baian Chen, Zhilei Chen, <b>Xiaowei Hu</b>, Jun Xu, Haoran Xie, Jing Qin, and Mingqiang Wei.  </i><br> 
-	        ACM Transactions on Multimedia Computing Communications and Applications (<b>ACM TOMM</b>), accepted, 2023. <br>
-	        [<a href="https://arxiv.org/abs/2206.09552">arXiv</a>]  
-	  </font>
-	 </p> </li>  
-	
-	
-</ul>		
 <p><font face="Arial" size="4"><b>2022</b></font></p> 
 <ul>
 
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-               Video Instance Shadow Detection <br> 
-         <i>   Zhenghao Xing^, Tianyu Wang^, <b>Xiaowei Hu</b>*, Haoran Wu, Chi-Wing Fu, and Pheng-Ann Heng.  </i><br> 
-	       Arxiv Tech Report, 2022. <br>
-	       [<a href="https://arxiv.org/abs/2211.12827">arXiv</a>] 
+            Cycle-SNSPGAN: Towards Real-World Image Dehazing via Cycle Spectral Normalized Soft Likelihood Estimation Patch GAN <br> 
+         <i>  <b>Yongzhen Wang</b>, Xuefeng Yan, Donghai Guan, Mingqiang Wei, Yiping Chen, Xiao-Ping Zhang, and Jonathan Li. </i><br> 
+	       IEEE Transactions on Intelligent Transportation Systems (<b>IEEE T-ITS</b>), vol. 23, no. 11, pp. 20368-20382, 2022. <br>
+	       [<a href="https://ieeexplore.ieee.org/document/9766195">paper</a>]
+	       [<a href="https://github.com/yz-wang/Cycle-SNSPGAN">code</a>] 
+          </font>
+	 </p> </li>
+     
+     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+               Detecting Occluded and Dense Trees in Urban Terrestrial Views with a High-quality Tree Detection Dataset <br> 
+         <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Hexiang Bao, Yiping Chen, Lina Gong, Mingqiang Wei, and Jonathan Li.  </i><br> 
+	       IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-12, 2022. <br>
+	       [<a href="https://ieeexplore.ieee.org/document/9800966">paper</a>] 
+	       [<a href="https://github.com/yz-wang/OD-UTDNet">code</a>]
 	  </font>
 	 </p> </li>
 	
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-               Demystify Transformers & Convolutions in Modern Image Deep Networks <br> 
-         <i>   <b>Xiaowei Hu</b>^, Min Shi^, Weiyun Wang^, Sitong Wu^, Linjie Xing, Wenhai Wang, Xizhou Zhu, Lewei Lu, Jie Zhou, Xiaogang Wang, Yu Qiao, and Jifeng Dai*.  </i><br> 
-	       Arxiv Tech Report, 2022. <br>
-	       [<a href="https://arxiv.org/abs/2211.05781">arXiv</a>] 
-	       [<a href="https://github.com/OpenGVLab/STM-Evaluation">code</a>]
+               TogetherNet: Bridging Image Restoration and Object Detection Together via Dynamic Enhancement Learning <br> 
+         <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Kaiwen Zhang, Lina Gong, Haoran Xie, Fu Lee Wang, and Mingqiang Wei.  </i><br> 
+	       Computer Graphics Forum (<b>CGF</b>), vol. 41, no.7, pp. 465-476, 2022. <br>
+	       [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14692">paper</a>] 
+	       [<a href="https://github.com/yz-wang/TogetherNet">code</a>]
 	  </font>
 	 </p> </li>
 	
 	
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection  <br> 
-	 <i>   Tianyu Wang, <b>Xiaowei Hu</b>*, Zhengze Liu, and Chi-Wing Fu. </i><br> 
-               Neural Information Processing Systems (<b>NeurIPS</b>), 2022. <br>
-	       [<a href="https://openreview.net/pdf?id=P6uZ7agiyCT">paper</a>]
-	       [<a href="https://arxiv.org/pdf/2211.13067.pdf">arXiv</a>] 
-	       [<a href="https://github.com/stevewongv/Sparse2Dense">code</a>]
+            Semi-MoreGAN: Semi-supervised Generative Adversarial Network for Mixture of Rain Removal  <br> 
+	 <i>   Yiyang Shen, <b>Yongzhen Wang</b>, Mingqiang Wei, Honghua Chen, Haoran Xie, Gary Cheng, and Fu Lee Wang. </i><br> 
+               Computer Graphics Forum (<b>CGF</b>), vol. 41, no.7, pp. 443-454, 2022. <br>
+	       [<a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14690">paper</a>]
+	       [<a href="https://github.com/syy-whu/Semi-MoreGAN">code</a>] 
 	 </font>
 	 </p> </li>
 	
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Learning Shadow Correspondence for Video Shadow Detection  <br> 
-	 <i>   Xinpeng Ding, Jingwen Yang, <b>Xiaowei Hu</b>, and Xiaomeng Li. </i><br> 
-               European Conference on Computer Vision (<b>ECCV</b>), pp. 705-722, 2022. <br>
-	      [<a href="https://link.springer.com/chapter/10.1007/978-3-031-19790-1_42">paper</a>]
-	      [<a href="https://arxiv.org/abs/2208.00150">arXiv</a>]
-	      [<a href="https://github.com/xmed-lab/SC-Cor">code</a>] 
+            Contrastive Semantic-Guided Image Smoothing Network  <br> 
+	 <i>   Jie Wang, <b>Yongzhen Wang</b>, Yidan Feng, Lina Gong, Xuefeng Yan, Haoran Xie, Fu Lee Wang, and Mingqiang Wei. </i><br> 
+               Computer Graphics Forum (<b>CGF</b>), vol. 41, no.7, pp. 335-346, 2022. <br>
+	      [<a href="https://onlinelibrary.wiley.com/doi/10.1111/cgf.14681">paper</a>]
+	      [<a href="https://github.com/wangjie6866/CSGIS-Net">code</a>] 
 	 </font>
 	 </p> </li>
 	
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Enhanced Coarse-to-Fine Network for Image Restoration  <br> 
-	 <i>   Yurui Zhu, Xi Wang, Xueyang Fu*, and <b>Xiaowei Hu</b>*. </i><br> 
-               1st Mobile Intelligent Photography & Imaging Workshop @ ECCV 2022, pp. 130-146, 2022. <br>
-	       [<a href="https://link.springer.com/chapter/10.1007/978-3-031-25072-9_9">paper</a>]
-	       [<a href="https://xw-hu.github.io/paper_material/ECCV22_award_certificates.pdf">certificate</a>]
-	       [<a href="https://github.com/zhuyr97/ECFNet">code</a>] 
+             一种基于语义引导和对比学习的战场图像去烟算法  <br> 
+	 <i>   熊佳梅, <b>王永振</b>, 燕雪峰, 魏明强. </i><br> 
+               兵工学报, pp. 1-12, 2022. <br>
+	       [<a href="http://www.co-journal.com/CN/10.12382/bgxb.2022.0675">paper</a>]
 	 </font>
 	 </p> </li>
 	
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Enhancing Pseudo Label Quality for Semi-Supervised Domain-Generalized Medical Image Segmentation <br> 
-         <i>   Huifeng Yao, <b>Xiaowei Hu</b>, and Xiaomeng Li. </i><br> 
-	       AAAI Conference on Artificial Intelligence (<b>AAAI</b>), pp. 3099-3107, 2022. <br>
-	    [<a href="https://ojs.aaai.org/index.php/AAAI/article/download/20217/19976">paper</a>]
-	    [<a href="https://arxiv.org/abs/2201.08657">arXiv</a>]
-	    [<a href="https://github.com/xmed-lab/EPL_SemiDG">code</a>] 
+            人脸识别任务驱动的低光照图像增强算法 <br> 
+         <i>   范益华, <b>王永振</b>, 燕雪峰, 宫丽娜, 郭延文, 魏明强. </i><br> 
+	       图学学报, Vol. 43, No. 06, pp. 1170-1181, 2022. <br>
+	    [<a href="http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=GCTX202206020&uniplatform=OVERSEA&v=p_6htIfHQSKHFEVfnjOOk1g9cxSWkQEiLzz2o6AJlnXCL11x6WraCR4wwe_zLdOy">paper</a>]
 	  </font>
 	 </p> </li>	
 
+    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            An adaptive neighborhood-based search enhanced artificial ecosystem optimizer for UCAV path planning <br> 
+         <i>   Yanbiao Niu, Xuefeng Yan, <b>Yongzhen Wang</b>, and Yanzhao Niu. </i><br> 
+	       Expert Systems with Applications (<b>ESWA</b>), vol. 208, 118047, 2022. <br>
+	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123005324">paper</a>] 
+	  </font>
+	 </p> </li>
 	
 </ul>		
 <p><font face="Arial" size="4"><b>2021</b></font></p> 
 <ul>
    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Revisiting Shadow Detection: A New Benchmark Dataset for Complex World <br> 
-         <i>   <b>Xiaowei Hu</b>, Tianyu Wang, Chi-Wing Fu, Yitong Jiang, Qiong Wang, and Pheng-Ann Heng. </i><br> 
-	       IEEE Transactions on Image Processing (<b>IEEE TIP</b>), vol. 30, pp. 1925-1934, 2021. <br>
-	    [<a href="https://ieeexplore.ieee.org/document/9319520">paper</a>]
-	    [<a href="https://arxiv.org/abs/1911.06998">arXiv</a>]
-	    [<a href="https://github.com/xw-hu/CUHK-Shadow#cuhk-shadow-dateset">CUHK-Shadow dataset</a>]
-	    [<a href="https://github.com/xw-hu/CUHK-Shadow#cuhk-shadow-evaluation">evaluation function</a>]
-	    [<a href="https://github.com/xw-hu/FSDNet">code</a>] 
-	  </font>
-	 </p> </li>	
-	
-	
-   <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Single-Image Real-Time Rain Removal Based on Depth-Guided Non-Local Features <br> 
-         <i>   <b>Xiaowei Hu</b>, Lei Zhu, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng.  </i><br> 
-	       IEEE Transactions on Image Processing (<b>IEEE TIP</b>), vol. 30, pp. 1759-1770, 2021. <br>
-	 [<a href="https://ieeexplore.ieee.org/document/9318521">paper</a>]
-	 [<a href="https://github.com/xw-hu/DGNL-Net/">code</a>] 
-	 [<a href="https://www.cityscapes-dataset.com/downloads/">RainCityscapes dataset</a>]  
+            Research on GPU parallel algorithm for direct numerical solution of two-dimensional compressible flows <br> 
+         <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, and Jun’an Zhang.  </i><br> 
+	       The Journal of Supercomputing (<b>TJSC</b>), vol. 77, No. 10, pp. 10921-10941, 2021. <br>
+	 [<a href="https://link.springer.com/article/10.1007/s11227-021-03704-9">paper</a>]
 	 </font>
 	 </p> </li>
 	
