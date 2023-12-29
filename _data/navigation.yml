@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Honors&Awards"
+  - title: "Honors & Awards"
     url: /honors/    
 
   - title: "Professional Services"
     url: /professions/    
     
-  - title: "Teaching"
-    url: /teaching/
-        
-  - title: "Group"
+  - title: "Collaborators & Teams"
     url: /group/
+        
+ # - title: "Group"
+  #  url: /group/
     
   # - title: "CV"
     # url: /cv/
