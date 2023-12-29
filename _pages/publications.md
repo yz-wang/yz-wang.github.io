@@ -66,6 +66,14 @@ author_profile: true
 	 </p> </li>
 
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            Joint Depth Estimation and Mixture of Rain Removal From a Single Image  <br> 
+	 <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Yanbiao Niu, Lina Gong, Yanwen Guo, and Mingqiang Wei. </i><br> 
+               arXiv preprint arXiv:2303.17766, pp. 1-11, 2023. <br>
+	        [<a href="https://arxiv.org/abs/2303.17766">arxiv</a>] 
+	 </font>
+	 </p> </li>
+
+     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
             面向真实战场环境的Transformer-CNN多特征聚合图像去雾算法  <br> 
 	 <i>   <b>王永振</b>, 童鸣, 燕雪峰, 魏明强. </i><br> 
                兵工学报, pp. 1-11, 2023. <br>
@@ -95,7 +103,23 @@ author_profile: true
 	       Knowledge-Based Systems (<b>KBS</b>), vol. 276, 110782, 2023. <br>
 	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123005324">paper</a>] 
 	  </font>
-	 </p> </li>     
+	 </p> </li>  
+
+     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            Adaptive Dehazing YOLO for Object Detection <br> 
+         <i>   Kaiwen Zhang, Xuefeng Yan, <b>Yongzhen Wang</b>, and Junchen Qi. </i><br> 
+	       International Conference on Artificial Neural Networks (<b>ICANN</b>), pp. 14-27, 2023. <br>
+	       [<a href="https://link.springer.com/chapter/10.1007/978-3-031-44195-0_2">paper</a>] 
+	  </font>
+	 </p> </li> 
+
+      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            Simulating hybrid SysML models: a model transformation approach under the DEVS framework <br> 
+         <i>   Xinquan Wu, Xuefeng Yan, Xingchan Li, and <b>Yongzhen Wang</b>. </i><br> 
+	       The Journal of Supercomputing (<b>TJSC</b>), vol. 79, no.2, pp. 2010-2030, 2023. <br>
+	       [<a href="https://so1.cljtscd.com/citations?view_op=view_citation&hl=zh-CN&user=fLeZQYkAAAAJ&citation_for_view=fLeZQYkAAAAJ:Tyk-4Ss8FVUC">paper</a>] 
+	  </font>
+	 </p> </li>
 		
 </ul>	
 
@@ -128,7 +152,14 @@ author_profile: true
 	       [<a href="https://github.com/yz-wang/TogetherNet">code</a>]
 	  </font>
 	 </p> </li>
-	
+
+     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            UCL-Dehaze: Towards Real-world Image Dehazing via Unsupervised Contrastive Learning  <br> 
+	 <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Fu Lee Wang, Haoran Xie, Wenhan Yang, Mingqiang Wei, and Jing Qin </i><br> 
+               arXiv preprint arXiv:2205.01871, pp. 1-14, 2022. <br>
+	        [<a href="https://arxiv.org/abs/2205.01871">arxiv</a>] 
+	 </font>
+	 </p> </li>
 	
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
             Semi-MoreGAN: Semi-supervised Generative Adversarial Network for Mixture of Rain Removal  <br> 
@@ -171,8 +202,17 @@ author_profile: true
 	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123005324">paper</a>] 
 	  </font>
 	 </p> </li>
-	
-</ul>		
+
+     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            Dynamic opposite learning enhanced artificial ecosystem optimizer for IIR system identification <br> 
+         <i>   Yanbiao Niu, Xuefeng Yan, <b>Yongzhen Wang</b>, and Yanzhao Niu. </i><br> 
+	       The Journal of Supercomputing (<b>TJSC</b>), vol. 78, no. 11, 13040-13085, 2022. <br>
+	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123005324">paper</a>] 
+	  </font>
+	 </p> </li>
+  
+</ul>	
+
 <p><font face="Arial" size="4"><b>2021</b></font></p> 
 <ul>
    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
