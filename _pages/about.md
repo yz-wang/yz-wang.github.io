@@ -14,9 +14,7 @@ I am currently a Lecturer with the <a href="https://cs.ahut.edu.cn/"> College of
 	<a href="https://www.nuaa.edu.cn/">Nanjing University of Aeronautics and Astronautics (NUAA)</a> in 2023, supervised by Prof. <a href="http://faculty.nuaa.edu.cn/yxf/zh_CN/index.htm" target="_blank">
 	Xuefeng Yan</a> and Prof. <a href="https://mingqiangwei.github.io/" target="_blank"> Mingqiang Wei</a>.
  
-I have published more than 20 research publications, including IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Instrumentation and Measurement, Expert Systems with Applications, etc.
-
-My research interests include deep learning, image processing, and computer vision, particularly in the domains of image restoration and object detection.
+I have published more than 20 research publications, including IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Instrumentation and Measurement, Expert Systems with Applications, etc. My research interests include deep learning, image processing, and computer vision, particularly in the domains of image restoration and object detection.
 
 
 
@@ -27,7 +25,6 @@ News
 [11/2023] One paper accepted to IEEE T-IM (Congrats to Wen yin) <br>
 [10/2023] One paper accepted to  ESWA (Congrats to Yanbiao) <br>
 [05/2023] One paper accepted to  IEEE T-ITS <br>
-[12/2023] <a href="https://mp.weixin.qq.com/s/Dm-BwB0yqkqzdfY6sl_XOg">Invited to Share Research Experience with All Faculty and Students in the College</a> <br>
 [10/2022] Achieved National Scholarship for Ph.D. Students <br>
 
 
