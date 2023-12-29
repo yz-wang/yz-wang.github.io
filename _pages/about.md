@@ -16,6 +16,8 @@ I am currently a Lecturer with the <a href="https://cs.ahut.edu.cn/"> College of
  
 I have published more than 20 research publications, including IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Instrumentation and Measurement, Expert Systems with Applications, etc. My research interests include deep learning, image processing, and computer vision, particularly in the domains of image restoration and object detection.
 
+$\color{Blue} {__If you want to cooperate with me, kindly contact me via email. Looking for new friends to join us.__}
+
 
 
 News 
