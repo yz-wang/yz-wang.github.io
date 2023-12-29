@@ -22,5 +22,11 @@ My research interests include deep learning, image processing, and computer visi
 
 News 
 ====== 
-[12/2023] xxxxxx：<a href="https://web.cmc.hebtv.com/cms/rmt0336_html/0/0rmhlm/qy/kjpd/xy/11335045.shtml?share=true">xxxxx| xxx：xxxxx</a> <br>
+[12/2023] Achieved Excellent Doctoral Dissertation Award of Jiangsu Artificial Intelligence Society：<a href="http://www.jsai.org.cn/ainews/notice/4265.html">[link]</a> <br>
+[12/2023] One paper accepted to  AEI (Congrats to Yanbiao) <br>
+[11/2023] One paper accepted to IEEE T-IM (Congrats to Wen yin) <br>
+[10/2023] One paper accepted to  ESWA (Congrats to Yanbiao) <br>
+[05/2023] One paper accepted to  IEEE T-ITS <br>
+[10/2022] Achieved National Scholarship for Ph.D. Students <br>
+
 
