@@ -22,11 +22,12 @@ My research interests include deep learning, image processing, and computer visi
 
 News 
 ====== 
-[12/2023] Achieved Excellent Doctoral Dissertation Award of Jiangsu Artificial Intelligence Society：<a href="http://www.jsai.org.cn/ainews/notice/4265.html">[link]</a> <br>
+[12/2023] <a href="http://www.jsai.org.cn/ainews/notice/4265.html">Achieved Excellent Doctoral Dissertation Award of Jiangsu Artificial Intelligence Society</a> <br>
 [12/2023] One paper accepted to  AEI (Congrats to Yanbiao) <br>
 [11/2023] One paper accepted to IEEE T-IM (Congrats to Wen yin) <br>
 [10/2023] One paper accepted to  ESWA (Congrats to Yanbiao) <br>
 [05/2023] One paper accepted to  IEEE T-ITS <br>
+[12/2023] <a href="https://mp.weixin.qq.com/s/Dm-BwB0yqkqzdfY6sl_XOg">Invited to Share Research Experience with All Faculty and Students in the College</a> <br>
 [10/2022] Achieved National Scholarship for Ph.D. Students <br>
 
 
