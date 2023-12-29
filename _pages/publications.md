@@ -43,7 +43,7 @@ author_profile: true
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
             3D real-time dynamic path planning for UAV based on improved interfered fluid dynamical system and artificial neural network <br> 
          <i>   Yanbiao Niu, Xuefeng Yan, <b>Yongzhen Wang</b>, and Yanzhao Niu. </i><br> 
-	       Advanced Engineering Informatics (<b>ESWA</b>), vol. 59, 102306, 2024. <br>
+	       Advanced Engineering Informatics (<b>AEI</b>), vol. 59, 102306, 2024. <br>
 	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034623004342">paper</a>] 
 	  </font>
 	 </p> </li>
