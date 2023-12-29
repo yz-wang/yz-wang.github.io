@@ -15,8 +15,7 @@ I am currently a Lecturer with the <a href="https://cs.ahut.edu.cn/"> College of
 	Xuefeng Yan</a> and Prof. <a href="https://mingqiangwei.github.io/" target="_blank"> Mingqiang Wei</a>.
  
 I have published more than 20 research publications, including IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Instrumentation and Measurement, Expert Systems with Applications, etc. My research interests include deep learning, image processing, and computer vision, particularly in the domains of image restoration and object detection.
-
-$\color{Blue} {__If you want to cooperate with me, kindly contact me via email. Looking for new friends to join us.__}
+<font color=LightSalmon><br>If you want to cooperate with me, kindly contact me via email. Looking for new friends to join us.</br></font>
 
 
 
