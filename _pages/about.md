@@ -22,7 +22,7 @@ News
 ====== 
 [12/2023] <a href="http://www.jsai.org.cn/ainews/notice/4265.html">Achieved Excellent Doctoral Dissertation Award of Jiangsu Artificial Intelligence Society</a> <br>
 [12/2023] One paper accepted to  AEI (Congrats to Yanbiao) <br>
-[11/2023] One paper accepted to IEEE T-IM (Congrats to Wen yin) <br>
+[11/2023] One paper accepted to IEEE T-IM (Congrats to Wenyin) <br>
 [10/2023] One paper accepted to  ESWA (Congrats to Yanbiao) <br>
 [05/2023] One paper accepted to  IEEE T-ITS <br>
 [10/2022] Achieved National Scholarship for Ph.D. Students <br>
