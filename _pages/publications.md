@@ -199,7 +199,7 @@ author_profile: true
             An adaptive neighborhood-based search enhanced artificial ecosystem optimizer for UCAV path planning <br> 
          <i>   Yanbiao Niu, Xuefeng Yan, <b>Yongzhen Wang</b>, and Yanzhao Niu. </i><br> 
 	       Expert Systems with Applications (<b>ESWA</b>), vol. 208, 118047, 2022. <br>
-	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123005324">paper</a>] 
+	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742201257X">paper</a>] 
 	  </font>
 	 </p> </li>
 
@@ -207,7 +207,7 @@ author_profile: true
             Dynamic opposite learning enhanced artificial ecosystem optimizer for IIR system identification <br> 
          <i>   Yanbiao Niu, Xuefeng Yan, <b>Yongzhen Wang</b>, and Yanzhao Niu. </i><br> 
 	       The Journal of Supercomputing (<b>TJSC</b>), vol. 78, no. 11, 13040-13085, 2022. <br>
-	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705123005324">paper</a>] 
+	       [<a href="https://link.springer.com/article/10.1007/s11227-022-04367-w">paper</a>] 
 	  </font>
 	 </p> </li>
   
