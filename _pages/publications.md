@@ -222,7 +222,7 @@ author_profile: true
 	 [<a href="https://link.springer.com/article/10.1007/s11227-021-03704-9">paper</a>]
 	 </font>
 	 </p> </li>	
-
+</ul>	
  
 <p><font face="Arial" size="4"><b>PhD Thesis</b></font></p> 
 <ul>
