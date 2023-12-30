@@ -219,7 +219,7 @@ author_profile: true
    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
             Research on GPU parallel algorithm for direct numerical solution of two-dimensional compressible flows <br> 
          <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, and Jun’an Zhang.  </i><br> 
-	       The Journal of Supercomputing (<b>TJSC</b>), vol. 77, No. 10, pp. 10921-10941, 2021. <br>
+	       The Journal of Supercomputing (<b>TJSC</b>), vol. 77, no. 10, pp. 10921-10941, 2021. <br>
 	 [<a href="https://link.springer.com/article/10.1007/s11227-021-03704-9">paper</a>]
 	 </font>
 	 </p> </li>	
