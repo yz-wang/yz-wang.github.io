@@ -117,7 +117,7 @@ author_profile: true
             Simulating hybrid SysML models: a model transformation approach under the DEVS framework <br> 
          <i>   Xinquan Wu, Xuefeng Yan, Xingchan Li, and <b>Yongzhen Wang</b>. </i><br> 
 	       The Journal of Supercomputing (<b>TJSC</b>), vol. 79, no.2, pp. 2010-2030, 2023. <br>
-	       [<a href="https://so1.cljtscd.com/citations?view_op=view_citation&hl=zh-CN&user=fLeZQYkAAAAJ&citation_for_view=fLeZQYkAAAAJ:Tyk-4Ss8FVUC">paper</a>] 
+	       [<a href="https://link.springer.com/article/10.1007/s11227-022-04654-6">paper</a>] 
 	  </font>
 	 </p> </li>
 		
