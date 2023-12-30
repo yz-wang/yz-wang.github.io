@@ -158,6 +158,7 @@ author_profile: true
 	 <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Fu Lee Wang, Haoran Xie, Wenhan Yang, Mingqiang Wei, and Jing Qin </i><br> 
                arXiv preprint arXiv:2205.01871, pp. 1-14, 2022. <br>
 	        [<a href="https://arxiv.org/abs/2205.01871">arxiv</a>] 
+	        [<a href="https://github.com/yz-wang/UCL-Dehaze">code</a>]
 	 </font>
 	 </p> </li>
 	
@@ -191,7 +192,7 @@ author_profile: true
             人脸识别任务驱动的低光照图像增强算法 <br> 
          <i>   范益华, <b>王永振</b>, 燕雪峰, 宫丽娜, 郭延文, 魏明强. </i><br> 
 	       图学学报, vol. 43, no. 06, pp. 1170-1181, 2022. <br>
-	    [<a href="http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=GCTX202206020&uniplatform=OVERSEA&v=p_6htIfHQSKHFEVfnjOOk1g9cxSWkQEiLzz2o6AJlnXCL11x6WraCR4wwe_zLdOy">paper</a>]
+	    [<a href="https://kns.cnki.net/kcms2/article/abstract?v=OHSidZhWKUl5ho5oFnyDfy75lC1yZyaBKt4FOZqYwYPsWFmiuEAvLdNAoN5eqXPrKsYaoywJmlOSB9mt1GABKHlUDCGIumm5yrFt04I-Xk4P4W_r-RXR5rpgnm7CRmqzYT1htjHtSvJybw5f6NetJg==&uniplatform=NZKPT&language=CHS">paper</a>]
 	  </font>
 	 </p> </li>	
 
