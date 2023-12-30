@@ -82,7 +82,7 @@ author_profile: true
 	 </p> </li>
     
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Densely Nested Network with Label Decoupling for Infrared Small Target Detection <br> 
+            ISmallNet: Densely Nested Network with Label Decoupling for Infrared Small Target Detection <br> 
          <i>   Zhiheng Hu, <b>Yongzhen Wang</b>, Peng Li, Jie Qin, Haoran Xie, and Mingqiang Wei.  </i><br> 
 	       Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), pp. 1-5, 2023. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/10095519">paper</a>]
