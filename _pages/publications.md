@@ -28,7 +28,7 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                MFFDNet: Single Image Deraining via Dual-Channel Mixed Feature Fusion <br> 
          <i>   Wenyin Tao, Xuefeng Yan, <b>Yongzhen Wang</b>, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Instrumentation and Measurement (<b>IEEE T-IM</b>), early access, 2024. <br>
+	       IEEE Transactions on Instrumentation and Measurement (<b>IEEE T-IM</b>), vol. 73, pp. 1-13, 2024. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/10379038">paper</a>] 
 	  </font>
 	 </p> </li>
