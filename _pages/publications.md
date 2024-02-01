@@ -25,6 +25,16 @@ author_profile: true
 <p><font face="Arial" size="4"><b>2024</b></font></p>
 
 <ul>
+
+    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+               UCL-Dehaze: Towards Real-world Image Dehazing via Unsupervised Contrastive Learning <br> 
+         <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Fu Lee Wang, Haoran Xie, Wenhan Yang, Xiao-Ping Zhang, Jing Qin, and Mingqiang Wei. </i><br> 
+	       IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 33, pp. 1-14, 2024. <br>
+	       [<a href="https://arxiv.org/abs/2205.01871">arXiv</a>] 
+	       [<a href="https://github.com/yz-wang/UCL-Dehaze">code</a>]
+	  </font>
+	 </p> </li>
+  
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                MFFDNet: Single Image Deraining via Dual-Channel Mixed Feature Fusion <br> 
          <i>   Wenyin Tao, Xuefeng Yan, <b>Yongzhen Wang</b>, and Mingqiang Wei. </i><br> 
