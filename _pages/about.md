@@ -21,6 +21,7 @@ I have published more than 20 research publications, including IEEE Transactions
 News 
 ====== 
 [02/2024] One paper accepted to IEEE T-IP <br>
+[02/2024] One paper accepted to IEEE T-IM (Congrats to Yihua) <br>
 [12/2023] <a href="http://www.jsai.org.cn/ainews/notice/4265.html">Achieved Excellent Doctoral Dissertation Award of Jiangsu Artificial Intelligence Society</a> <br>
 [12/2023] One paper accepted to AEI (Congrats to Yanbiao) <br>
 [11/2023] One paper accepted to IEEE T-IM (Congrats to Wenyin) <br>
