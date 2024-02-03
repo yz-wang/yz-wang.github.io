@@ -34,6 +34,14 @@ author_profile: true
 	       [<a href="https://github.com/yz-wang/UCL-Dehaze">code</a>]
 	  </font>
 	 </p> </li>
+
+    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+               Low-FaceNet: Face Recognition-driven Low-light Image Enhancement <br> 
+         <i>   Yihua Fan, <b>Yongzhen Wang</b>, Dong Liang, Yiping Chen, Haoran Xie, Fu Lee Wang, Jonathan Li, and Mingqiang Wei. </i><br> 
+	       IEEE Transactions on Instrumentation and Measurement (<b>IEEE T-IM</b>), in press, 2024. <br>
+	       [<a href="https://github.com/fanyihua0309/Low-FaceNet">code</a>]
+	  </font>
+	 </p> </li>
   
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                MFFDNet: Single Image Deraining via Dual-Channel Mixed Feature Fusion <br> 
