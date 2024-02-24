@@ -172,15 +172,6 @@ author_profile: true
 	       [<a href="https://github.com/yz-wang/TogetherNet">code</a>]
 	  </font>
 	 </p> </li>
-
-     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            UCL-Dehaze: Towards Real-world Image Dehazing via Unsupervised Contrastive Learning  <br> 
-	 <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Fu Lee Wang, Haoran Xie, Wenhan Yang, Mingqiang Wei, and Jing Qin </i><br> 
-               arXiv preprint arXiv:2205.01871, pp. 1-14, 2022. <br>
-	        [<a href="https://arxiv.org/abs/2205.01871">arxiv</a>] 
-	        [<a href="https://github.com/yz-wang/UCL-Dehaze">code</a>]
-	 </font>
-	 </p> </li>
 	
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
             Semi-MoreGAN: Semi-supervised Generative Adversarial Network for Mixture of Rain Removal  <br> 
