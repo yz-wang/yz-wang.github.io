@@ -40,6 +40,7 @@ author_profile: true
                Low-FaceNet: Face Recognition-driven Low-light Image Enhancement <br> 
          <i>   Yihua Fan, <b>Yongzhen Wang</b>, Dong Liang, Yiping Chen, Haoran Xie, Fu Lee Wang, Jonathan Li, and Mingqiang Wei. </i><br> 
 	       IEEE Transactions on Instrumentation and Measurement (<b>IEEE T-IM</b>), in press, 2024. <br>
+	       [<a href="https://ieeexplore.ieee.org/document/10476748">paper</a>]
 	       [<a href="https://github.com/fanyihua0309/Low-FaceNet">code</a>]
 	  </font>
 	 </p> </li>
