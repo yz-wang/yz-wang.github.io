@@ -68,6 +68,14 @@ author_profile: true
 	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034623004342">paper</a>] 
 	  </font>
 	 </p> </li>
+
+      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            Semi-uformer: Semi-supervised uncertainty-aware transformer for image dehazing <br> 
+         <i>   Ming Tong, Xuefeng Yan, <b>Yongzhen Wang</b>, and Mingqiang Wei. </i><br> 
+	       International Joint Conference on Neural Networks (<b>IJCNN</b>), 1-8, 2024. <br>
+	       [<a href="https://ieeexplore.ieee.org/abstract/document/10649968">paper</a>] 
+	  </font>
+	 </p> </li>
   
 </ul>
 
