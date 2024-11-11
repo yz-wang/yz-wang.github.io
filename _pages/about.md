@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ======
-I am currently a Lecturer at the <a href="https://cs.ahut.edu.cn/"> School of Computer Science and Technology</a>, <a href="https://www.ahut.edu.cn/">Anhui University of Technology</a>, Ma’anshan, China. I obtained my Ph.D. degree in <a href="http://cs.nuaa.edu.cn/">Computer Science and Technology</a>, 
+I am currently a Lecturer at the <a href="https://cs.ahut.edu.cn/info/1121/3318.htm"> School of Computer Science and Technology</a>, <a href="https://www.ahut.edu.cn/">Anhui University of Technology</a>, Ma’anshan, China. I obtained my Ph.D. degree in <a href="http://cs.nuaa.edu.cn/">Computer Science and Technology</a>, 
 	<a href="https://www.nuaa.edu.cn/">Nanjing University of Aeronautics and Astronautics (NUAA)</a> in 2023, supervised by Prof. <a href="http://faculty.nuaa.edu.cn/yxf/zh_CN/index.htm" target="_blank">
 	Xuefeng Yan</a> and Prof. <a href="https://mingqiangwei.github.io/" target="_blank"> Mingqiang Wei</a>.
  
