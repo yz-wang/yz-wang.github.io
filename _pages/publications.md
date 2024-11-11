@@ -37,6 +37,14 @@ author_profile: true
 	 </p> </li>
 
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            面向真实战场环境的Transformer-CNN多特征聚合图像去雾算法  <br> 
+	 <i>   <b>王永振</b>, 童鸣, 燕雪峰, 魏明强. </i><br> 
+               兵工学报, vol. 45(4), pp. 1070-1081, 2024. <br>
+	        [<a href="http://www.co-journal.com/CN/abstract/abstract7689.shtml">paper</a>] 
+	 </font>
+	 </p> </li>
+
+    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                Low-FaceNet: Face Recognition-driven Low-light Image Enhancement <br> 
          <i>   Yihua Fan, <b>Yongzhen Wang</b>, Dong Liang, Yiping Chen, Haoran Xie, Fu Lee Wang, Jonathan Li, and Mingqiang Wei. </i><br> 
 	       IEEE Transactions on Instrumentation and Measurement (<b>IEEE T-IM</b>), vol. 73, pp. 1-13, 2024. <br>
@@ -132,14 +140,6 @@ author_profile: true
 	 <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Yanbiao Niu, Lina Gong, Yanwen Guo, and Mingqiang Wei. </i><br> 
                arXiv preprint arXiv:2303.17766, pp. 1-11, 2023. <br>
 	        [<a href="https://arxiv.org/abs/2303.17766">arxiv</a>] 
-	 </font>
-	 </p> </li>
-
-     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            面向真实战场环境的Transformer-CNN多特征聚合图像去雾算法  <br> 
-	 <i>   <b>王永振</b>, 童鸣, 燕雪峰, 魏明强. </i><br> 
-               兵工学报, pp. 1-11, 2023. <br>
-	        [<a href="http://www.co-journal.com/CN/10.12382/bgxb.2022.0957">paper</a>] 
 	 </font>
 	 </p> </li>
     
