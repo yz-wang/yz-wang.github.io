@@ -44,6 +44,15 @@ author_profile: true
 	       [<a href="https://github.com/fanyihua0309/Low-FaceNet">code</a>]
 	  </font>
 	 </p> </li>
+
+    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+               RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing <br> 
+         <i>   Jiamei Xiong, Xuefeng Yan, <b>Yongzhen Wang</b>, Wei Zhao, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
+	       IEEE Transactions on Intelligent Transportation Systems (<b>IEEE T-ITS</b>), early access, pp. 1-16, 2024. <br>
+	       [<a href="https://ieeexplore.ieee.org/document/10747754">paper</a>]
+	       [<a href="https://github.com/jm-xiong/RSHazeDiff">code</a>]
+	  </font>
+	 </p> </li>
   
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                MFFDNet: Single Image Deraining via Dual-Channel Mixed Feature Fusion <br> 
@@ -76,6 +85,30 @@ author_profile: true
 	       [<a href="https://ieeexplore.ieee.org/abstract/document/10649968">paper</a>] 
 	  </font>
 	 </p> </li>
+
+      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            Uncertainty-Driven Multi-scale Feature Fusion Network for Real-Time Image Deraining <br> 
+         <i>   Ming Tong, Xuefeng Yan, and <b>Yongzhen Wang</b>. </i><br> 
+	       International Conference on Intelligent Computing (<b>ICIC</b>), 74-85, 2024. <br>
+	       [<a href="https://link.springer.com/chapter/10.1007/978-981-97-5591-2_7">paper</a>] 
+	  </font>
+	 </p> </li>
+
+       <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            DWTN: deep wavelet transform network for lightweight single image deraining <br> 
+         <i>   Wenyin Tao, Xuefeng Yan, <b>Yongzhen Wang</b>, and Mingqiang Wei. </i><br> 
+	       Advances in Continuous and Discrete Models (<b>ACDM</b>), vol. 42(2024), 2024. <br>
+	       [<a href="https://link.springer.com/article/10.1186/s13662-024-03843-2">paper</a>] 
+	  </font>
+	 </p> </li>
+
+       <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            Multi-objective sand cat swarm optimization based on adaptive clustering for solving multimodal multi-objective optimization problems <br> 
+         <i>   Yanbiao Niu, Xuefeng Yan, Weiping Zeng, <b>Yongzhen Wang</b>, and Yanzhao Niu. </i><br> 
+	       Mathematics and Computers in Simulation (<b>MCS</b>), vol. 227, pp. 391-404, 2024. <br>
+	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378475424003252">paper</a>] 
+	  </font>
+	 </p> </li>
   
 </ul>
 
@@ -88,7 +121,7 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                USCFormer: Unified Transformer with Semantically Contrastive Learning for Image Dehazing <br> 
          <i>   <b>Yongzhen Wang</b>, Jiamei Xiong, Xuefeng Yan, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Intelligent Transportation Systems(<b>IEEE T-ITS</b>), vol. 24, no. 10, pp. 11321-11333, 2023. <br>
+	       IEEE Transactions on Intelligent Transportation Systems (<b>IEEE T-ITS</b>), vol. 24, no. 10, pp. 11321-11333, 2023. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/10143384">paper</a>] 
                [<a href="https://github.com/yz-wang/USCFormer">code</a>]
 	  </font>
