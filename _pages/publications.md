@@ -27,6 +27,29 @@ author_profile: true
 <ul>
 
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+              Real-Scene Image Dehazing via Laplacian Pyramid-based Conditional Diffusion Model <br> 
+         <i>   <b>Yongzhen Wang</b>, Jie Sun, Heng Liu, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
+	       IEEE Transactions on Multimedia (<b>IEEE T-MM</b>), vol. 27, pp. 1-14, 2025. <br>
+	       [<a>In press</a>] 
+	       [<a href="https://github.com/yz-wang/LPCDiff">code</a>]
+	  </font>
+	 </p> </li>
+
+    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+            一种融合多尺度与局部特征增强的实时图像去雾算法  <br> 
+	 <i>   <b>王永振</b>, 曾俊伟, 孙杰, 刘恒. </i><br> 
+               计算机辅助设计与图形学学报, pp. 1-11, 2025. <br>
+	        [<a href="https://www.jcad.cn/article/doi/10.3724/SP.J.1089.2024-00497">paper</a>] 
+	 </font>
+	 </p> </li>
+</ul>
+
+
+<p><font face="Arial" size="4"><b>2024</b></font></p>
+
+<ul>
+
+    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                UCL-Dehaze: Towards Real-world Image Dehazing via Unsupervised Contrastive Learning <br> 
          <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Fu Lee Wang, Haoran Xie, Wenhan Yang, Xiao-Ping Zhang, Jing Qin, and Mingqiang Wei. </i><br> 
 	       IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 33, pp. 1361-1374, 2024. <br>
