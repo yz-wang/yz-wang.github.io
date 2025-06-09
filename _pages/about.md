@@ -20,12 +20,13 @@ I have published more than 30 research publications, including IEEE Transactions
 
 News 
 ====== 
+[06/2025] One paper accepted to NN <br>
 [05/2025] One paper accepted to IEEE T-MM <br>
 [04/2025] One paper accepted to 计算机辅助设计与图形学学报 <br>
 [02/2025] One paper selected as ESI Highly Cited Paper (10.1109/TIP.2024.3362153) <br>
+[01/2025] One paper selected as WILEY Top Cited Paper (10.1111/cgf.14692) <br>
 [11/2024] One paper accepted to IEEE T-ITS (Congrats to Jiamei) <br>
 [02/2024] One paper accepted to IEEE T-IP <br>
-[02/2024] One paper accepted to IEEE T-IM (Congrats to Yihua) <br>
 [12/2023] <a href="http://www.jsai.org.cn/ainews/notice/4265.html">Achieved Excellent Doctoral Dissertation Award of Jiangsu Artificial Intelligence Society</a> <br>
 [05/2023] One paper accepted to IEEE T-ITS <br>
 [10/2022] Achieved National Scholarship for Ph.D. Students <br>
