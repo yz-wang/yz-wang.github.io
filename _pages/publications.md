@@ -36,6 +36,16 @@ author_profile: true
 	 </p> </li>
 
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+              Rethinking Mixture of Rain Removal via Depth-Guided Adversarial Learning <br> 
+         <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Yanbiao Niu, Lina Gong, Yanwen Guo, and Mingqiang Wei. </i><br> 
+	       Neural Networks (<b>NN</b>), vol. 190, pp. 1-13, 2025. <br>
+	       [<a>In press</a>] 
+	       [<a href="https://arxiv.org/abs/2303.17766">arXiv</a>] 
+	       [<a href="https://github.com/yz-wang/DEMore-Net">code</a>]
+	  </font>
+	 </p> </li>
+
+    <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
             一种融合多尺度与局部特征增强的实时图像去雾算法  <br> 
 	 <i>   <b>王永振</b>, 曾俊伟, 孙杰, 刘恒. </i><br> 
                计算机辅助设计与图形学学报, pp. 1-11, 2025. <br>
