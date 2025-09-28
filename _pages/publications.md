@@ -29,7 +29,7 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
               Real-Scene Image Dehazing via Laplacian Pyramid-based Conditional Diffusion Model <br> 
          <i>   <b>Yongzhen Wang</b>, Jie Sun, Heng Liu, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Multimedia (<b>IEEE T-MM</b>), vol. 27, pp. 1-14, 2025. <br>
+	       IEEE Transactions on Multimedia (<b>IEEE TMM</b>), vol. 27, pp. 1-14, 2025. <br>
 	       [<a>In press</a>] 
 	       [<a href="https://github.com/yz-wang/LPCDiff">code</a>]
 	  </font>
@@ -39,12 +39,21 @@ author_profile: true
               Rethinking Mixture of Rain Removal via Depth-Guided Adversarial Learning <br> 
          <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Yanbiao Niu, Lina Gong, Yanwen Guo, and Mingqiang Wei. </i><br> 
 	       Neural Networks (<b>NN</b>), vol. 190, pp. 1-13, 2025. <br>
-	       [<a>In press</a>] 
+	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608025006197>paper</a>] 
 	       [<a href="https://arxiv.org/abs/2303.17766">arXiv</a>] 
 	       [<a href="https://github.com/yz-wang/DEMore-Net">code</a>]
 	  </font>
 	 </p> </li>
 
+     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
+              WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing <br> 
+         <i>   Jie Sun, Heng Liu, <b>Yongzhen Wang</b>, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
+	       IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE TCSVT</b>), vol. 35, no.9, pp. 1-14, 2025. <br>
+	       [<a href="https://ieeexplore.ieee.org/document/11180084>paper</a>] 
+	       [<a href="https://github.com/SunJ000/WDMamba">code</a>]
+	  </font>
+	 </p> </li>
+	 
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
             一种融合多尺度与局部特征增强的实时图像去雾算法  <br> 
 	 <i>   <b>王永振</b>, 曾俊伟, 孙杰, 刘恒. </i><br> 
@@ -62,7 +71,7 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                UCL-Dehaze: Towards Real-world Image Dehazing via Unsupervised Contrastive Learning <br> 
          <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Fu Lee Wang, Haoran Xie, Wenhan Yang, Xiao-Ping Zhang, Jing Qin, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Image Processing (<b>IEEE T-IP</b>), vol. 33, pp. 1361-1374, 2024. <br>
+	       IEEE Transactions on Image Processing (<b>IEEE TIP</b>), vol. 33, pp. 1361-1374, 2024. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/10431709">paper</a>]
 	       [<a href="https://arxiv.org/abs/2205.01871">arXiv</a>] 
 	       [<a href="https://github.com/yz-wang/UCL-Dehaze">code</a>]
@@ -80,7 +89,7 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                Low-FaceNet: Face Recognition-driven Low-light Image Enhancement <br> 
          <i>   Yihua Fan, <b>Yongzhen Wang</b>, Dong Liang, Yiping Chen, Haoran Xie, Fu Lee Wang, Jonathan Li, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Instrumentation and Measurement (<b>IEEE T-IM</b>), vol. 73, pp. 1-13, 2024. <br>
+	       IEEE Transactions on Instrumentation and Measurement (<b>IEEE TIM</b>), vol. 73, pp. 1-13, 2024. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/10476748">paper</a>]
 	       [<a href="https://github.com/fanyihua0309/Low-FaceNet">code</a>]
 	  </font>
@@ -89,7 +98,7 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing <br> 
          <i>   Jiamei Xiong, Xuefeng Yan, <b>Yongzhen Wang</b>, Wei Zhao, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Intelligent Transportation Systems (<b>IEEE T-ITS</b>), early access, pp. 1-16, 2024. <br>
+	       IEEE Transactions on Intelligent Transportation Systems (<b>IEEE TITS</b>), vol. 26, no.1, pp. 1-16, 2024. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/10747754">paper</a>]
 	       [<a href="https://github.com/jm-xiong/RSHazeDiff">code</a>]
 	  </font>
@@ -98,7 +107,7 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                MFFDNet: Single Image Deraining via Dual-Channel Mixed Feature Fusion <br> 
          <i>   Wenyin Tao, Xuefeng Yan, <b>Yongzhen Wang</b>, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Instrumentation and Measurement (<b>IEEE T-IM</b>), vol. 73, pp. 1-13, 2024. <br>
+	       IEEE Transactions on Instrumentation and Measurement (<b>IEEE TIM</b>), vol. 73, pp. 1-13, 2024. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/10379038">paper</a>] 
 	  </font>
 	 </p> </li>
@@ -162,18 +171,10 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                USCFormer: Unified Transformer with Semantically Contrastive Learning for Image Dehazing <br> 
          <i>   <b>Yongzhen Wang</b>, Jiamei Xiong, Xuefeng Yan, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Intelligent Transportation Systems (<b>IEEE T-ITS</b>), vol. 24, no. 10, pp. 11321-11333, 2023. <br>
+	       IEEE Transactions on Intelligent Transportation Systems (<b>IEEE TITS</b>), vol. 24, no. 10, pp. 11321-11333, 2023. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/10143384">paper</a>] 
                [<a href="https://github.com/yz-wang/USCFormer">code</a>]
 	  </font>
-	 </p> </li>
-
-     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
-            Joint Depth Estimation and Mixture of Rain Removal From a Single Image  <br> 
-	 <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Yanbiao Niu, Lina Gong, Yanwen Guo, and Mingqiang Wei. </i><br> 
-               arXiv preprint arXiv:2303.17766, pp. 1-11, 2023. <br>
-	        [<a href="https://arxiv.org/abs/2303.17766">arxiv</a>] 
-	 </font>
 	 </p> </li>
     
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
@@ -224,7 +225,7 @@ author_profile: true
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
             Cycle-SNSPGAN: Towards Real-World Image Dehazing via Cycle Spectral Normalized Soft Likelihood Estimation Patch GAN <br> 
          <i>  <b>Yongzhen Wang</b>, Xuefeng Yan, Donghai Guan, Mingqiang Wei, Yiping Chen, Xiao-Ping Zhang, and Jonathan Li. </i><br> 
-	       IEEE Transactions on Intelligent Transportation Systems (<b>IEEE T-ITS</b>), vol. 23, no. 11, pp. 20368-20382, 2022. <br>
+	       IEEE Transactions on Intelligent Transportation Systems (<b>IEEE TITS</b>), vol. 23, no. 11, pp. 20368-20382, 2022. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/9766195">paper</a>]
 	       [<a href="https://github.com/yz-wang/Cycle-SNSPGAN">code</a>] 
           </font>
@@ -233,7 +234,7 @@ author_profile: true
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
                Detecting Occluded and Dense Trees in Urban Terrestrial Views with a High-quality Tree Detection Dataset <br> 
          <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Hexiang Bao, Yiping Chen, Lina Gong, Mingqiang Wei, and Jonathan Li.  </i><br> 
-	       IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE T-GRS</b>), vol. 60, pp. 1-12, 2022. <br>
+	       IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE TGRS</b>), vol. 60, pp. 1-12, 2022. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/9800966">paper</a>] 
 	       [<a href="https://github.com/yz-wang/OD-UTDNet">code</a>]
 	  </font>
