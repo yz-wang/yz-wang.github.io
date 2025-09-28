@@ -39,7 +39,7 @@ author_profile: true
               Rethinking Mixture of Rain Removal via Depth-Guided Adversarial Learning <br> 
          <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Yanbiao Niu, Lina Gong, Yanwen Guo, and Mingqiang Wei. </i><br> 
 	       Neural Networks (<b>NN</b>), vol. 190, pp. 1-13, 2025. <br>
-	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608025006197>paper</a>] 
+	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608025006197">paper</a>] 
 	       [<a href="https://arxiv.org/abs/2303.17766">arXiv</a>] 
 	       [<a href="https://github.com/yz-wang/DEMore-Net">code</a>]
 	  </font>
@@ -49,7 +49,7 @@ author_profile: true
               WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing <br> 
          <i>   Jie Sun, Heng Liu, <b>Yongzhen Wang</b>, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
 	       IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE TCSVT</b>), vol. 35, no.9, pp. 1-14, 2025. <br>
-	       [<a href="https://ieeexplore.ieee.org/document/11180084>paper</a>] 
+	       [<a href="https://ieeexplore.ieee.org/document/11180084">paper</a>] 
 	       [<a href="https://github.com/SunJ000/WDMamba">code</a>]
 	  </font>
 	 </p> </li>
