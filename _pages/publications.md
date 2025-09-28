@@ -29,7 +29,7 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
               Real-Scene Image Dehazing via Laplacian Pyramid-based Conditional Diffusion Model <br> 
          <i>   <b>Yongzhen Wang</b>, Jie Sun, Heng Liu, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Multimedia (<b>IEEE TMM</b>), vol. 27, pp. 1-14, 2025. <br>
+	       IEEE Transactions on Multimedia (<b>IEEE TMM</b>), vol. 27, 107739, 2025. <br>
 	       [<a>In press</a>] 
 	       [<a href="https://github.com/yz-wang/LPCDiff">code</a>]
 	  </font>
@@ -38,7 +38,7 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
               Rethinking Mixture of Rain Removal via Depth-Guided Adversarial Learning <br> 
          <i>   <b>Yongzhen Wang</b>, Xuefeng Yan, Yanbiao Niu, Lina Gong, Yanwen Guo, and Mingqiang Wei. </i><br> 
-	       Neural Networks (<b>NN</b>), vol. 190, pp. 1-13, 2025. <br>
+	       Neural Networks (<b>NN</b>), vol. 191, pp. 1-13, 2025. <br>
 	       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608025006197">paper</a>] 
 	       [<a href="https://arxiv.org/abs/2303.17766">arXiv</a>] 
 	       [<a href="https://github.com/yz-wang/DEMore-Net">code</a>]
