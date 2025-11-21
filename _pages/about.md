@@ -20,6 +20,7 @@ I have published more than 30 research publications, including IEEE Transactions
 
 News 
 ====== 
+[11/2025] One paper accepted to IEEE TIP <br>
 [09/2025] One paper accepted to IEEE TCSVT (Congrats to Jie Sun) <br>
 [06/2025] One paper accepted to NN <br>
 [05/2025] One paper accepted to IEEE TMM <br>
