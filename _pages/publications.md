@@ -31,7 +31,7 @@ author_profile: true
          <i>   <b>Yongzhen Wang</b>, Yongjun Li, Zhuoran Zheng, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
 	       IEEE Transactions on Image Processing (<b>IEEE TIP</b>), early access, pp. 1-15, 2025. <br>
 	       [<a>In press</a>] 
-	       [<a href="coming soon">code</a>]
+	       [<a>Code will be released soon</a>]
 	  </font>
 	 </p> </li>
 	
@@ -39,7 +39,7 @@ author_profile: true
               Real-Scene Image Dehazing via Laplacian Pyramid-based Conditional Diffusion Model <br> 
          <i>   <b>Yongzhen Wang</b>, Jie Sun, Heng Liu, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
 	       IEEE Transactions on Multimedia (<b>IEEE TMM</b>), vol. 27, pp. 1-14, 2025. <br>
-	       [<a>href="https://ieeexplore.ieee.org/document/11249427"</a>] 
+	       [<a>href="https://ieeexplore.ieee.org/document/11249427"paper</a>] 
 	       [<a href="https://github.com/yz-wang/LPCDiff">code</a>]
 	  </font>
 	 </p> </li>
