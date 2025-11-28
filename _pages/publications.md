@@ -29,9 +29,10 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
               M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br> 
          <i>   <b>Yongzhen Wang</b>, Yongjun Li, Zhuoran Zheng, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Image Processing (<b>IEEE TIP</b>), early access, pp. 1-15, 2025. <br>
+	       IEEE Transactions on Image Processing (<b>IEEE TIP</b>), early access (10.1109/TIP.2025.3638662), pp. 1-15, 2025. <br>
 	       [<a>In press</a>] 
-	       [<a>Code will be released soon</a>]
+		   [<a href="https://arxiv.org/abs/2506.07814">arXiv</a>] 
+	       [<a href="https://github.com/yz-wang/M2Restore">code</a>]
 	  </font>
 	 </p> </li>
 	
