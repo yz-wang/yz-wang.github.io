@@ -27,7 +27,7 @@ If you are a student at AHUT and interested in doing research with me, please do
 
 News 
 ====== 
-[01/2026] <a href="https://mp.weixin.qq.com/s/ELGi9EHY3aR_EuSBXtAjNQ">Our works were featured in the the school's official account.</a> <br>
+[01/2026] <a href="https://mp.weixin.qq.com/s/ELGi9EHY3aR_EuSBXtAjNQ">Our Works Were Featured in the School's Official Account</a> <br>
 [11/2025] One paper accepted to IEEE TIP <br>
 [09/2025] One paper accepted to IEEE TCSVT <br>
 [06/2025] One paper accepted to NN <br>
