@@ -14,8 +14,9 @@ I am currently a Lecturer at the <a href="https://cs.ahut.edu.cn/info/1121/3318.
 	<a href="https://www.nuaa.edu.cn/">Nanjing University of Aeronautics and Astronautics (NUAA)</a> in 2023, supervised by Prof. <a href="http://faculty.nuaa.edu.cn/yxf/zh_CN/index.htm" target="_blank">
 	Xuefeng Yan</a> and Prof. <a href="https://mingqiangwei.github.io/" target="_blank"> Mingqiang Wei</a>.
  
-I have published more than 30 research publications, including IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Intelligent Transportation Systems, etc. My research interests include deep learning, image processing, and computer vision, particularly in the domains image restoration (dehazing/deraining), and object detection. <br> <font 
-																																																																																				# 																																																																																# <span style="color:red;">Openings</span>
+I have published more than 30 research publications, including IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Geoscience and Remote Sensing, IEEE Transactions on Intelligent Transportation Systems, etc. My research interests include deep learning, image processing, and computer vision, particularly in the domains image restoration (dehazing/deraining), and object detection. <br>  
+
+# <span style="color:red;">Openings</span>
 ======
 We are recruiting collaborators and welcome PhD students, master’s students, and outstanding undergraduates with a strong interest in research to join us. We hope you are self-driven and passionate about research. If interested, please contact me via email.
 
