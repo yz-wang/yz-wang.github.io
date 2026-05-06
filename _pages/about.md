@@ -29,7 +29,7 @@ News
 ====== 
 [01/2026] <a href="https://mp.weixin.qq.com/s/ELGi9EHY3aR_EuSBXtAjNQ">Our Works Were Featured in the School's Official Account</a> <br>
 [11/2025] One paper accepted to IEEE TIP <br>
-[09/2025] One paper accepted to IEEE TCSVT <br>
+[09/2025] One paper accepted to IEEE TCSVT  (Congrats to Jie Sun) <br>
 [06/2025] One paper accepted to NN <br>
 [05/2025] One paper accepted to IEEE TMM <br>
 [04/2025] One paper accepted to 计算机辅助设计与图形学学报 <br>
