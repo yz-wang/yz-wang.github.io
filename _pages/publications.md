@@ -29,7 +29,7 @@ author_profile: true
     <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
               M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br> 
          <i>   <b>Yongzhen Wang</b>, Yongjun Li, Zhuoran Zheng, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Image Processing (<b>IEEE TIP</b>), early access (10.1109/TIP.2025.3638662), pp. 1-15, 2025. <br>
+	       IEEE Transactions on Image Processing (<b>IEEE TIP</b>), vol. 34, pp. 8086-8100, 2025. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/11284756">paper</a>] 
 		   [<a href="https://arxiv.org/abs/2506.07814">arXiv</a>] 
 	       [<a href="https://github.com/yz-wang/M2Restore">code</a>]
@@ -39,7 +39,7 @@ author_profile: true
 	<li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
               Real-Scene Image Dehazing via Laplacian Pyramid-based Conditional Diffusion Model <br> 
          <i>   <b>Yongzhen Wang</b>, Jie Sun, Heng Liu, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Multimedia (<b>IEEE TMM</b>), vol. 27, pp. 1-14, 2025. <br>
+	       IEEE Transactions on Multimedia (<b>IEEE TMM</b>), vol. 28, pp. 944-957, 2026. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/11249427">paper</a>] 
 	       [<a href="https://github.com/yz-wang/LPCDiff">code</a>]
 	  </font>
@@ -58,7 +58,7 @@ author_profile: true
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
               WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing <br> 
          <i>   Jie Sun, Heng Liu, <b>Yongzhen Wang</b>, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
-	       IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE TCSVT</b>), vol. 35, no.9, pp. 1-14, 2025. <br>
+	       IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE TCSVT</b>), vol. 36, no.3, pp. 2894-2907, 2026. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/11180084">paper</a>] 
 	       [<a href="https://github.com/SunJ000/WDMamba">code</a>]
 	  </font>
