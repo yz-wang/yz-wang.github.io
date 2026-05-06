@@ -57,7 +57,7 @@ author_profile: true
 
      <li> <p style="margin-left: 0px; line-height: 150%; margin-top: 10px; margin-bottom: 10px;"><font face="Arial" size="3"><meta charset="utf-8">
               WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing <br> 
-         <i>   Jie Sun, Heng Liu, <b>Yongzhen Wang</b>, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
+         <i>   Jie Sun, Heng Liu, <b>Yongzhen Wang*</b>, Xiao-Ping Zhang, and Mingqiang Wei. </i><br> 
 	       IEEE Transactions on Circuits and Systems for Video Technology (<b>IEEE TCSVT</b>), vol. 36, no.3, pp. 2894-2907, 2026. <br>
 	       [<a href="https://ieeexplore.ieee.org/document/11180084">paper</a>] 
 	       [<a href="https://github.com/SunJ000/WDMamba">code</a>]
