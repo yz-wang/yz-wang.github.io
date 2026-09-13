@@ -23,7 +23,7 @@ We are recruiting collaborators and welcome PhD students, master’s students, a
 
 News 
 ====== 
-[08/2026] One paper selected as ESI Highly Cited Paper (10.1109/TCSVT.2025.3614173) <br>
+[07/2026] One paper selected as ESI Highly Cited Paper (10.1109/TCSVT.2025.3614173) <br>
 [01/2026] <a href="https://mp.weixin.qq.com/s/ELGi9EHY3aR_EuSBXtAjNQ">Our Works Were Featured in the School's Official Account</a> <br>
 [11/2025] One paper accepted to IEEE TIP <br>
 [09/2025] One paper accepted to IEEE TCSVT  (Congrats to Jie Sun) <br>
